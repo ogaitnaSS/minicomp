@@ -1,0 +1,51 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/hdadr.json",
+  "@type": "sc:Collection",
+  "label": "hdadr",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/adr_end_001/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "adr_end_001"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/adr_end_002/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "adr_end_002"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/adr_end_003/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "adr_end_003"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/adr_end_004/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "adr_end_004"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/adr_er_001/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "adr_er_001"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/adr_img_001/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "adr_img_001"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/adr_img_002/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "adr_img_002"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/adr_img_003/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "adr_img_003"
+    }
+  ]
+}
