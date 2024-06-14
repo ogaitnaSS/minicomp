@@ -8,44 +8,44 @@ layout: none
   "label": "hdadr",
   "manifests": [
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/adr_end_001/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/adr_001/manifest.json",
       "@type": "sc:Manifest",
-      "label": "adr_end_001"
+      "label": "adr_001"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/adr_end_002/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/adr_002/manifest.json",
       "@type": "sc:Manifest",
-      "label": "adr_end_002"
+      "label": "adr_002"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/adr_end_003/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/adr_003/manifest.json",
       "@type": "sc:Manifest",
-      "label": "adr_end_003"
+      "label": "adr_003"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/adr_end_004/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/adr_004/manifest.json",
       "@type": "sc:Manifest",
-      "label": "adr_end_004"
+      "label": "adr_004"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/adr_er_001/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/adr_005/manifest.json",
       "@type": "sc:Manifest",
-      "label": "adr_er_001"
+      "label": "adr_005"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/adr_img_001/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/adr_006/manifest.json",
       "@type": "sc:Manifest",
-      "label": "adr_img_001"
+      "label": "adr_006"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/adr_img_002/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/adr_007/manifest.json",
       "@type": "sc:Manifest",
-      "label": "adr_img_002"
+      "label": "adr_007"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/adr_img_003/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/adr_008/manifest.json",
       "@type": "sc:Manifest",
-      "label": "adr_img_003"
+      "label": "adr_008"
     }
   ]
 }

@@ -10,4 +10,4 @@ Con el objetivo de promover, fortalecer y rescatar nuestra historia, hemos lanza
 
 ## Creditos
 
-La hemeroteca digital fue creada por S. Sahir Santiago-Díaz como prueba para el curso de <i>Minicomp del Summer Intensive Program</i> de CDSC.
+La hemeroteca digital fue creada por S. Sahir Santiago-Díaz como prueba para el curso de <i>Minicomp</i> del <i>Caribbean Digital Scholarship Summer Institute</i> de <a href="https://cdscollective.org/">CDSC</a>.
